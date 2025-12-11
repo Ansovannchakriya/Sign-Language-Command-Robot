@@ -1,0 +1,13 @@
+train: ../train/images
+val: ../valid/images
+test: ../test/images
+
+nc: 4
+names: ['Go', 'Left', 'Right', 'Stop']
+
+roboflow:
+  workspace: sovannchakriya
+  project: hand_gestures-bbprj
+  version: 4
+  license: CC BY 4.0
+  url: https://universe.roboflow.com/sovannchakriya/hand_gestures-bbprj/dataset/4
