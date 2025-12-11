@@ -1,0 +1,17 @@
+# # Core dependencies
+# numpy==1.26.4
+# opencv-python==4.12.0.88
+# pyserial==3.5
+
+# # TensorFlow for MobileNetV2 + TFLite
+# tensorflow==2.15.0
+
+# # Optional but useful
+# matplotlib==3.8.1  # for debugging or plotting images (optional)
+
+numpy
+opencv-python
+mediapipe
+tflite-runtime
+pyserial
+
